@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Мобильный клиент\nGitHub.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pressToExit">Нажмите еще раз для выхода</string>
+    <string name="pressToEnterYourToken">Введите ваш токен</string>
+    <string name="enter">Войти</string>
+    <string name="networkNotConnected">Нет подключения к сети</string>
+    <string name="firstAddToken">Заполните поле токена</string>
+    <string name="failureConnectionToGit">Проверьте корректность токена или попробуйте позже</string>
+    <string name="successConnection">Вы успешно подключились</string>
+    <string name="tagEyeVisible">глаз</string>
+    <string name="tagEyeInvisible">закрытый глаз</string>
+    <string name="failedDownloadsPictures" tools:ignore="ExtraTranslation">Не удалось загрузить фото</string>
+    <string name="deleteAccount">Удаление аккаунта</string>
+    <string name="cancel">Отмена</string>
+    <string name="pressToMoveToAuth">Нажмите еще раз, чтобы вернуться к аутентификации</string>
+    <string name="userLogin">Логин: </string>
+    <string name="userName">Имя: </string>
+    <string name="userURL">URL: </string>
+    <string name="repositoryName">Название репозитория</string>
+    <string name="repositoryDescription">Описание репозитория</string>
+    <string name="authorsRepository">Автор репозитория</string>
+    <string name="forks">0</string>
+    <string name="watches">0</string>
+    <string name="repositoryDescriptionNone">Описание отсутствует</string>
+
+
+</resources>
